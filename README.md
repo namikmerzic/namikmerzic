@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @namikmerzic
 - 👀 I’m interested in ...system administratoin
-- 🌱 I’m currently learning ... Microsoft and Linux tools for sys admin
+- 🌱 I’m currently learning ... Cloud Technologies GCP
 - 💞️ I’m looking to collaborate on ... system administration
 - 📫 How to reach me --- easy via e-mail namik.merzic@gmail.com
 
